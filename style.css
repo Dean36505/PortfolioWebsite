@@ -1,0 +1,47 @@
+h2 {
+    color:darkgreen;
+}
+
+h1 {
+    color:red;
+    font-family:'Courier New', 'Courier New', Courier, monospace"
+}
+
+body {
+    background-color: green;
+}
+
+section, footer {
+    margin: auto;
+    width: 700px;
+    background-color: white;
+}
+
+.profile {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.profile > img {
+    width: 150px;
+    border-radius: 100%;
+    border: solid green 10px;
+}
+
+.social-media-link > img {
+    width: 50px;
+    cursor: pointer;
+}
+
+.about > h2 {
+    text-align: center;
+}
+
+.about > h2 {
+    padding-top: 25px;
+}
+
+.about > a {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
